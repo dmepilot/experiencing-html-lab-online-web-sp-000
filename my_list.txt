@@ -2,3 +2,4 @@
 "Aibus A340"
 "Boeing 777"
 "Embraer 145"
+"Boeing 767"
